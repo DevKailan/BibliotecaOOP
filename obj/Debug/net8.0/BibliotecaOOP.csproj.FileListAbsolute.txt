@@ -1,0 +1,15 @@
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.exe
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.deps.json
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.runtimeconfig.json
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.dll
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\bin\Debug\net8.0\BibliotecaOOP.pdb
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.AssemblyInfoInputs.cache
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.AssemblyInfo.cs
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.csproj.CoreCompileInputs.cache
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.sourcelink.json
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.dll
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\refint\BibliotecaOOP.dll
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.pdb
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\BibliotecaOOP.genruntimeconfig.cache
+C:\Users\DevKailan\Documents\Meus Projetos\BibliotecaOOP\obj\Debug\net8.0\ref\BibliotecaOOP.dll

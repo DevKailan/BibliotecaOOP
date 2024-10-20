@@ -1,22 +1,19 @@
+// classe abstrata que serve como base para itens da biblioteca
 public abstract class ItemBiblioteca
 {
-    
-    private string titulo;
-    private string codigo;
+    // propriedades com encapsulamento, controlando o acesso aos dados
+    public string Titulo { get; private set; }
+    public string Codigo { get; private set; }
 
-    
-    public string Titulo 
+    // construtor que inicializa as propriedades
+    public ItemBiblioteca(string titulo, string codigo)
     {
-        get => titulo; 
-        set => titulo = value; 
+        Titulo = titulo;
+        Codigo = codigo;
     }
 
-    public string Codigo 
-    {
-        get => codigo; 
-        set => codigo = value; 
-    }
-
+    // métodos abstratos que devem ser implementados nas classes derivadas
     public abstract void Emprestar(Usuario usuario);
     public abstract void Devolver();
+    public abstract void ExibirInformacoes();
 }
